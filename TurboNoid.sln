@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboNoid", "TurboNoid\TurboNoid\TurboNoid.csproj", "{6446C7EC-6A5A-40E1-ABFC-0EC7A23CC1FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboNoidV2", "TurboNoid\TurboNoid\TurboNoidV2.csproj", "{6446C7EC-6A5A-40E1-ABFC-0EC7A23CC1FA}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TurboNoidContent", "TurboNoid\TurboNoidContent\TurboNoidContent.contentproj", "{B31F1B7B-8441-48DE-83CE-C623A003AEBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboNoidContent", "TurboNoid\TurboNoidContent\TurboNoidContent.contentproj", "{B31F1B7B-8441-48DE-83CE-C623A003AEBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
